@@ -1,4 +1,4 @@
-const backendTools = ["JavaScript", "Git", "Node", "Supabase"];
+const backendToolss = ["JavaScript", "Git", "Node", "Supabase"];
 
 // A standard for loop
 for (let i = 0; i < backendTools.length; i++) {
